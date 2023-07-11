@@ -1,0 +1,452 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quoteText": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "category": "Inspiration",
+      "tags": [
+        "life",
+        "success",
+        "perseverance"
+      ]
+    },
+    {
+      "id": 2,
+      "quoteText": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "Success",
+      "tags": [
+        "motivation",
+        "passion",
+        "career"
+      ]
+    },
+    {
+      "id": 3,
+      "quoteText": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "Dreams",
+      "tags": [
+        "aspirations",
+        "ambition",
+        "optimism"
+      ]
+    },
+    {
+      "id": 4,
+      "quoteText": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln",
+      "category": "Life",
+      "tags": [
+        "legacy",
+        "fulfillment",
+        "meaning"
+      ]
+    },
+    {
+      "id": 5,
+      "quoteText": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "Courage",
+      "tags": [
+        "persistence",
+        "determination",
+        "resilience"
+      ]
+    },
+    {
+      "id": 6,
+      "quoteText": "The only thing we have to fear is fear itself.",
+      "author": "Franklin D. Roosevelt",
+      "category": "Fear",
+      "tags": [
+        "bravery",
+        "courage",
+        "confidence"
+      ]
+    },
+    {
+      "id": 7,
+      "quoteText": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "Belief",
+      "tags": [
+        "optimism",
+        "self-confidence",
+        "achievement"
+      ]
+    },
+    {
+      "id": 8,
+      "quoteText": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "category": "Perseverance",
+      "tags": [
+        "time",
+        "productivity",
+        "determination"
+      ]
+    },
+    {
+      "id": 9,
+      "quoteText": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "category": "Success",
+      "tags": [
+        "achievement",
+        "motivation",
+        "empowerment"
+      ]
+    },
+    {
+      "id": 10,
+      "quoteText": "The greatest weapon against stress is our ability to choose one thought over another.",
+      "author": "William James",
+      "category": "Stress",
+      "tags": [
+        "mindfulness",
+        "mental health",
+        "positivity"
+      ]
+    },
+    {
+      "id": 11,
+      "quoteText": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "category": "Life",
+      "tags": [
+        "individuality",
+        "priorities",
+        "self-discovery"
+      ]
+    },
+    {
+      "id": 12,
+      "quoteText": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "category": "Opportunity",
+      "tags": [
+        "risk",
+        "achievement",
+        "success"
+      ]
+    },
+    {
+      "id": 13,
+      "quoteText": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "category": "Belief",
+      "tags": [
+        "optimism",
+        "confidence",
+        "progress"
+      ]
+    },
+    {
+      "id": 14,
+      "quoteText": "The future starts today, not tomorrow.",
+      "author": "Pope John Paul II",
+      "category": "Future",
+      "tags": [
+        "action",
+        "planning",
+        "possibilities"
+      ]
+    },
+    {
+      "id": 15,
+      "quoteText": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "category": "Achievement",
+      "tags": [
+        "perseverance",
+        "belief",
+        "accomplishment"
+      ]
+    },
+    {
+      "id": 16,
+      "quoteText": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "category": "Self-Discovery",
+      "tags": [
+        "choices",
+        "self-determination",
+        "identity"
+      ]
+    },
+    {
+      "id": 17,
+      "quoteText": "Happiness is not something ready-made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "category": "Happiness",
+      "tags": [
+        "joy",
+        "self-improvement",
+        "mindfulness"
+      ]
+    },
+    {
+      "id": 18,
+      "quoteText": "Do not wait for leaders; do it alone, person to person.",
+      "author": "Mother Teresa",
+      "category": "Action",
+      "tags": [
+        "empowerment",
+        "initiative",
+        "compassion"
+      ]
+    },
+    {
+      "id": 19,
+      "quoteText": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll",
+      "category": "Life",
+      "tags": [
+        "perspective",
+        "attitude",
+        "resilience"
+      ]
+    },
+    {
+      "id": 20,
+      "quoteText": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "category": "Success",
+      "tags": [
+        "focus",
+        "hard work",
+        "opportunity"
+      ]
+    },
+    {
+      "id": 21,
+      "quoteText": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "category": "Progress",
+      "tags": [
+        "initiative",
+        "action",
+        "motivation"
+      ]
+    },
+    {
+      "id": 22,
+      "quoteText": "You must be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "category": "Change",
+      "tags": [
+        "inspiration",
+        "activism",
+        "leadership"
+      ]
+    },
+    {
+      "id": 23,
+      "quoteText": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein",
+      "category": "Growth",
+      "tags": [
+        "learning",
+        "experimentation",
+        "innovation"
+      ]
+    },
+    {
+      "id": 24,
+      "quoteText": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "Perseverance",
+      "tags": [
+        "persistence",
+        "endurance",
+        "progress"
+      ]
+    },
+    {
+      "id": 25,
+      "quoteText": "If you want to achieve greatness, stop asking for permission.",
+      "author": "Anonymous",
+      "category": "Ambition",
+      "tags": [
+        "self-confidence",
+        "courage",
+        "achievement"
+      ]
+    },
+    {
+      "id": 26,
+      "quoteText": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "category": "Future",
+      "tags": [
+        "planning",
+        "innovation",
+        "proactivity"
+      ]
+    },
+    {
+      "id": 27,
+      "quoteText": "A dream doesn't become reality through magic; it takes sweat, determination, and hard work.",
+      "author": "Colin Powell",
+      "category": "Dreams",
+      "tags": [
+        "effort",
+        "commitment",
+        "achievement"
+      ]
+    },
+    {
+      "id": 28,
+      "quoteText": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer",
+      "category": "Success",
+      "tags": [
+        "fulfillment",
+        "passion",
+        "purpose"
+      ]
+    },
+    {
+      "id": 29,
+      "quoteText": "The only way to predict the future is to have power to shape the future.",
+      "author": "Eric Hoffer",
+      "category": "Power",
+      "tags": [
+        "influence",
+        "determination",
+        "action"
+      ]
+    },
+    {
+      "id": 30,
+      "quoteText": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar",
+      "category": "Beginnings",
+      "tags": [
+        "progress",
+        "motivation",
+        "self-improvement"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "category": "Inspiration"
+    },
+    {
+      "category": "Success"
+    },
+    {
+      "category": "Dreams"
+    },
+    {
+      "category": "Life"
+    },
+    {
+      "category": "Courage"
+    },
+    {
+      "category": "Fear"
+    },
+    {
+      "category": "Belief"
+    },
+    {
+      "category": "Perseverance"
+    },
+    {
+      "category": "Stress"
+    },
+    {
+      "category": "Opportunity"
+    },
+    {
+      "category": "Future"
+    },
+    {
+      "category": "Achievement"
+    },
+    {
+      "category": "Self-Discovery"
+    },
+    {
+      "category": "Happiness"
+    },
+    {
+      "category": "Action"
+    },
+    {
+      "category": "Change"
+    },
+    {
+      "category": "Growth"
+    },
+    {
+      "category": "Ambition"
+    },
+    {
+      "category": "Power"
+    },
+    {
+      "category": "Beginnings"
+    },
+    {
+      "category": "Progress"
+    }
+  ],
+  "authors": [
+    {
+      "author": "Albert Einstein"
+    },
+    {
+      "author": "Nelson Mandela"
+    },
+    {
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "author": "Dalai Lama"
+    },
+    {
+      "author": "Mother Teresa"
+    },
+    {
+      "author": "Charles R. Swindoll"
+    },
+    {
+      "author": "Henry David Thoreau"
+    },
+    {
+      "author": "Mark Twain"
+    },
+    {
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "author": "Confucius"
+    },
+    {
+      "author": "Peter Drucker"
+    },
+    {
+      "author": "Colin Powell"
+    },
+    {
+      "author": "Albert Schweitzer"
+    },
+    {
+      "author": "Eric Hoffer"
+    },
+    {
+      "author": "Zig Ziglar"
+    },
+    {
+      "author": "Pope John Paul II"
+    },
+    {
+      "author": "Winston Churchill"
+    }
+  ]
+}
