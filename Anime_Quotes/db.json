@@ -1,0 +1,249 @@
+{
+    "quotes": [
+      {
+        "id": 1,
+        "character": "Monkey D. Luffy",
+        "anime": "One Piece",
+        "quote": "I'm gonna be the Pirate King!"
+      },
+      {
+        "id": 2,
+        "character": "Naruto Uzumaki",
+        "anime": "Naruto",
+        "quote": "Believe it!"
+      },
+      {
+        "id": 3,
+        "character": "Ichigo Kurosaki",
+        "anime": "Bleach",
+        "quote": "If I were the rain... that binds together the Earth and the sky, whom in all eternity will never mingle... would I be able to bind two hearts together?"
+      },
+      {
+        "id": 4,
+        "character": "Spike Spiegel",
+        "anime": "Cowboy Bebop",
+        "quote": "I'm not going there to die. I'm going to find out if I'm really alive."
+      },
+      {
+        "id": 5,
+        "character": "Eren Yeager",
+        "anime": "Attack on Titan",
+        "quote": "I'm the same as you. I just don't want to lose anymore."
+      },
+      {
+        "id": 6,
+        "character": "Light Yagami",
+        "anime": "Death Note",
+        "quote": "I'll take a potato chip... and eat it!"
+      },
+      {
+        "id": 7,
+        "character": "Edward Elric",
+        "anime": "Fullmetal Alchemist",
+        "quote": "A lesson without pain is meaningless. That's because no one can gain without sacrificing something."
+      },
+      {
+        "id": 8,
+        "character": "Lelouch vi Britannia",
+        "anime": "Code Geass",
+        "quote": "The only ones who should kill are those who are prepared to be killed."
+      },
+      {
+        "id": 9,
+        "character": "Gon Freecss",
+        "anime": "Hunter x Hunter",
+        "quote": "I don't care what you want! I'm not letting you go! I won't let you die!"
+      },
+      {
+        "id": 10,
+        "character": "Mikasa Ackerman",
+        "anime": "Attack on Titan",
+        "quote": "This world is cruel, but it's also beautiful."
+      },
+      {
+        "id": 11,
+        "character": "Kakashi Hatake",
+        "anime": "Naruto",
+        "quote": "In the ninja world, those who break the rules are scum, that's true, but those who abandon their friends are worse than scum."
+      },
+      {
+        "id": 12,
+        "character": "Roy Mustang",
+        "anime": "Fullmetal Alchemist",
+        "quote": "I have no interest in ordinary humans. If there are any aliens, time travelers, or espers here, come out!"
+      },
+      {
+        "id": 13,
+        "character": "Saitama",
+        "anime": "One Punch Man",
+        "quote": "I'm just a guy who's a hero for fun."
+      },
+      {
+        "id": 14,
+        "character": "Killua Zoldyck",
+        "anime": "Hunter x Hunter",
+        "quote": "Strength is justice! Strength is absolute!"
+      },
+      {
+        "id": 15,
+        "character": "Sakata Gintoki",
+        "anime": "Gintama",
+        "quote": "If you have time to think of a beautiful end, then live beautifully until the end."
+      },
+      {
+        "id": 16,
+        "character": "Ryuk",
+        "anime": "Death Note",
+        "quote": "Humans are so fascinating. It's such a shame that they're so boring."
+      },
+      {
+        "id": 17,
+        "character": "Maka Albarn",
+        "anime": "Soul Eater",
+        "quote": "A sound soul dwells within a sound mind and a sound body."
+      },
+      {
+        "id": 18,
+        "character": "Himura Kenshin",
+        "anime": "Rurouni Kenshin",
+        "quote": "The scar of my past will determine my future."
+      },
+      {
+        "id": 19,
+        "character": "Levi Ackerman",
+        "anime": "Attack on Titan",
+        "quote": "I don't know which option you should choose. I could never advise you on that... But I will support you no matter what you decide. Just know that."
+      },
+      {
+        "id": 20,
+        "character": "Misaka Mikoto",
+        "anime": "A Certain Scientific Railgun",
+        "quote": "I have the power to do anything... but I don't know what I want to do."
+      },
+      {
+        "id": 21,
+        "character": "Saber",
+        "anime": "Fate/stay night",
+        "quote": "I ask of you: are you my master?"
+      },
+      {
+        "id": 22,
+        "character": "L",
+        "anime": "Death Note",
+        "quote": "There is no heaven or hell. No matter what you do while you're alive, everybody goes to the same place once you die. Death is Equal."
+      },
+      {
+        "id": 23,
+        "character": "Itachi Uchiha",
+        "anime": "Naruto",
+        "quote": "People live their lives bound by what they accept as correct and true. That's how they define \"reality\". But what does it mean to be \"correct\" or \"true\"?"
+      },
+      {
+        "id": 24,
+        "character": "Goku",
+        "anime": "Dragon Ball Z",
+        "quote": "I am the hope of the universe. I am the answer to all living things who cry out for peace. I am protector of the innocent. I am the light in the darkness. I am truth."
+      },
+      {
+        "id": 25,
+        "character": "Hinata Hyuga",
+        "anime": "Naruto",
+        "quote": "I will never go back on my word... because that's my ninja way!"
+      },
+      {
+        "id": 26,
+        "character": "Yato",
+        "anime": "Noragami",
+        "quote": "I'm not a god of fortune. I'm a god of calamity."
+      },
+      {
+        "id": 27,
+        "character": "Shoyo Hinata",
+        "anime": "Haikyuu!!",
+        "quote": "I may be small, but I can jump!"
+      },
+      {
+        "id": 28,
+        "character": "Rin Okumura",
+        "anime": "Blue Exorcist",
+        "quote": "A heart needs only its pride."
+      },
+      {
+        "id": 29,
+        "character": "Megumin",
+        "anime": "KonoSuba",
+        "quote": "Explosion!"
+      },
+      {
+        "id": 30,
+        "character": "Tanjirou Kamado",
+        "anime": "Demon Slayer",
+        "quote": "My goal is to turn my sister back into a human. And then, we're going to live happily together!"
+      },
+      {
+        "id": 31,
+        "character": "Ryuko Matoi",
+        "anime": "Kill la Kill",
+        "quote": "If you're going to mock the school, do it to raise it up, not bring it down."
+      }
+    ],
+        "animes": [
+          "One Piece",
+          "Naruto",
+          "Bleach",
+          "Cowboy Bebop",
+          "Attack on Titan",
+          "Death Note",
+          "Fullmetal Alchemist",
+          "Code Geass",
+          "Hunter x Hunter",
+          "Gintama",
+          "Soul Eater",
+          "Rurouni Kenshin",
+          "A Certain Scientific Railgun",
+          "Fate/stay night",
+          "Dragon Ball Z",
+          "Noragami",
+          "Haikyuu!!",
+          "Blue Exorcist",
+          "KonoSuba",
+          "Demon Slayer",
+          "Kill la Kill"
+        ],
+        
+        "characters": [
+              "Monkey D. Luffy",
+              "Naruto Uzumaki",
+              "Ichigo Kurosaki",
+              "Spike Spiegel",
+              "Eren Yeager",
+              "Light Yagami",
+              "Edward Elric",
+              "Lelouch vi Britannia",
+              "Gon Freecss",
+              "Mikasa Ackerman",
+              "Kakashi Hatake",
+              "Roy Mustang",
+              "Saitama",
+              "Killua Zoldyck",
+              "Sakata Gintoki",
+              "Ryuk",
+              "Maka Albarn",
+              "Himura Kenshin",
+              "Levi Ackerman",
+              "Misaka Mikoto",
+              "Saber",
+              "L",
+              "Itachi Uchiha",
+              "Goku",
+              "Hinata Hyuga",
+              "Yato",
+              "Shoyo Hinata",
+              "Rin Okumura",
+              "Megumin",
+              "Tanjirou Kamado",
+              "Ryuko Matoi"
+            ]
+          
+  }
+  
