@@ -1,0 +1,768 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "genre": "Action, Adventure, Thrill",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/05/mission_impossible__dead_reckoning_part_one_ver2_xlg.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "Ethan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
+      "director": "Christopher McQuarrie",
+      "actors": [
+        "Tom Cruise",
+        "Hayley Atwell",
+        "Ving Rhames",
+        "Simon Pegg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Sound of Freedom",
+      "genre": "Action, Biography, Drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/The_Sound_of_Freedom_Poster.jpg/220px-The_Sound_of_Freedom_Poster.jpg",
+      "synopsis": "The incredible true story of a former government agent turned vigilante who embarks on a dangerous mission to rescue hundreds of children from sex traffickers.",
+      "director": "Alejandro Monteverde",
+      "actors": [
+        "Jim Caviezel",
+        "Mira Sorvino",
+        "Bill Camp",
+        "Cristal Aparicio"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Oppenheimer",
+      "genre": "Biography, Drama, History",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/05/oppenheimer_xlg.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon",
+        "Robert Downey Jr."
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Barbie (I)",
+      "genre": "Adventure, Comedy, Fantasy",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/04/fs35p0cx0aana4e.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "Barbie suffers a crisis that leads her to question her world and her existence.",
+      "director": "Greta Gerwig",
+      "actors": [
+        "Margot Robbie",
+        "Ariana Greenblatt",
+        "Kingsley Ben-Adir",
+        "Ryan Gosling"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "The Out-Laws",
+      "genre": "Action, Comedy, Crime",
+      "poster": "https://m.media-amazon.com/images/M/MV5BM2JmMmE0NjYtODUzNS00ZDg2LTk2ZjMtNDBiNjhlMGU2NjJlXkEyXkFqcGdeQXVyMTQ4NTgxNzYx._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "A straight-laced bank manager about to marry the love of his life. When his bank is held up by infamous Ghost Bandits during his wedding week, he believes his future in-laws who just arrived in town, are the infamous Out-Laws.",
+      "director": "Tyler Spindel",
+      "actors": [
+        "Adam Devine",
+        "Pierce Brosnan",
+        "Ellen Barkin",
+        "Nina Dobrev"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "genre": "Action, Adventure",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDQxMTY3NTAtMzYwYi00Y2U3LThkYmQtOTljY2I4ZmJiZGIzXkEyXkFqcGdeQXVyMTU1NzY5NTky._V1_UY98_CR1,0,67,98_AL_.jpg",
+      "synopsis": "Archaeologist Indiana Jones races against time to retrieve a legendary artifact that can change the course of history.",
+      "director": "James Mangold",
+      "actors": [
+        "Harrison Ford",
+        "Phoebe Waller-Bridge",
+        "Antonio Banderas",
+        "Karen Allen"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Wonka",
+      "genre": "Adventure, Comedy, Family",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzJiZGRkMDgtZWFlOS00MWRhLThhNTEtMjljZTJjYTljYTBjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "The story will focus specifically on a young Willy Wonka and how he met the Oompa-Loompas on one of his earliest adventures.",
+      "director": "Paul King",
+      "actors": [
+        "Timothée Chalamet",
+        "Olivia Colman",
+        "Hugh Grant",
+        "Sally Hawkins"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "genre": "Action, Adventure, Comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+      "director": "James Gunn",
+      "actors": [
+        "Chris Pratt",
+        "Chukwudi Iwuji",
+        "Bradley Cooper",
+        "Pom Klementieff"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Napoleon",
+      "genre": "Action, Adventure, Biogra",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWIzNDAxMTktMDMzZS00ZjJmLTlhNjYtOGUxYmZlYzVmOGE4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "The film takes a personal look at Napoleon Bonaparte's origins, and his swift, ruthless climb to emperor viewed through the prism of his addictive, and often volatile, relationship with his wife and one true love, Josephine.",
+      "director": "Ridley Scott",
+      "actors": [
+        "Vanessa Kirby",
+        "Joaquin Phoenix",
+        "Ludivine Sagnier",
+        "Ben Miles"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Asteroid City",
+      "genre": "Comedy, Drama, Romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDJmMzY0ZGUtYWE1My00OWViLTg1NTctOWMwZWJlNDQzNGRiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Following a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
+      "director": "Wes Anderson",
+      "actors": [
+        "Jason Schwartzman",
+        "Scarlett Johansson",
+        "Tom Hanks",
+        "Jeffrey Wright"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Insidious: The Red Door",
+      "genre": "Horror, Mystery, Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjdlZjI4YTEtNjgzZi00NTA1LWIwZWYtMDc0MzhjOWNlYjcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "synopsis": "The Lamberts must go deeper into The Further than ever before to put their demons to rest once and for all.",
+      "director": "Patrick Wilson",
+      "actors": [
+        "Ty Simpkins",
+        "Patrick Wilson",
+        "Rose Byrne",
+        "Sinclair Daniel"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Transformers: Rise of the Beasts",
+      "genre": "Action, Adventure, Sci-Fi",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "During the '90s, a new faction of Transformers - the Maximals - join the Autobots as allies in the battle for Earth.",
+      "director": "Steven Caple Jr.",
+      "actors": [
+        "Anthony Ramos",
+        "Dominique Fishback",
+        "Luna Lauren Velez",
+        "Dean Scott Vazquez"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "No Hard Feelings",
+      "genre": "Comedy, Romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or die trying.",
+      "director": "Gene Stupnitsky",
+      "actors": [
+        "Jennifer Lawrence",
+        "Andrew Barth Feldman",
+        "Laura Benanti",
+        "Matthew Broderick"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "genre": "Animation, Action, Adventure",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/05/spiderman_across_the_spiderverse_ver2.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+      "director": "Joaquim Dos Santos",
+      "actors": [
+        "Kemp Powers",
+        "Justin K. Thompson",
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Brian Tyree Henry"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Killers of the Flower Moon",
+      "genre": "Crime, Drama, History",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTNjZWYwZDAtOTQwOC00YzZiLWEwYWYtZTcxYWNhNDI2NjVkXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_UY98_CR83,0,67,98_AL_.jpg",
+      "synopsis": "Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s, sparking a major F.B.I. investigation involving J. Edgar Hoover.",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Robert De Niro",
+        "Lily Gladstone",
+        "Jesse Plemons"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Joy Ride",
+      "genre": "Comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjc3OTJhMzQtMjA0OC00YWViLThmMGUtMjcwOTFiYzRlMTA2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Follows four Chinese-American friends as they bond and discover the truth of what it means to know and love who you are, while they travel through China in search of one of their birth mothers.",
+      "director": "Adele Lim",
+      "actors": [
+        "Debbie Fan",
+        "Kenneth Liu",
+        "Annie Mumolo",
+        "David Denman"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "65",
+      "genre": "Action, Adventure, Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzFhM2M1MDUtNDhmNC00YzEzLThiMzctYWYxZTc0MGJhNWYyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "synopsis": "An astronaut crash lands on a mysterious planet only to discover he's not alone.",
+      "director": "Scott Beck",
+      "actors": [
+        "Bryan Woods",
+        "Adam Driver",
+        "Ariana Greenblatt",
+        "Chloe Coleman",
+        "Nika King"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "The Flash",
+      "genre": "Action, Adventure, Fantasy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWE2ZWE5MDQtMTJlZi00MTVjLTkxOTgtNmNiYjg2NDIxN2NhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+      "director": "Andy Muschietti",
+      "actors": [
+        "Ezra Miller",
+        "Michael Keaton",
+        "Sasha Calle",
+        "Michael Shannon"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Elemental",
+      "genre": "Animation, Adventure, Comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjYxYWVjMDMtZGRjZS00ZDE4LTk0OWUtMjUyOTI4MmYxNjgwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Follows Ember and Wade, in a city where fire-, water-, land- and air-residents live together.",
+      "director": "Peter Sohn",
+      "actors": [
+        "Leah Lewis",
+        "Mamoudou Athie",
+        "Ronnie Del Carmen",
+        "Shila Ommi"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Extraction 2",
+      "genre": "Action, Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjg5MTM4N2QtN2RlMS00NzBlLTg3NDktM2ExZDNmMmExMGU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "After barely surviving his grievous wounds from his mission in Dhaka, Bangladesh, Tyler Rake is back, and his team is ready to take on their next mission.",
+      "director": "Sam Hargrave",
+      "actors": [
+        "Chris Hemsworth",
+        "Golshifteh Farahani",
+        "Adam Bessa",
+        "Tornike Gogrichiani"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Culpa mía",
+      "genre": "Drama, Romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTEyN2NiZTUtOTE5Zi00M2U5LWI4NzktODkwNDFkMDA2ZTQ0XkEyXkFqcGdeQXVyMTM5NDQ2NjMw._V1_UY98_CR1,0,67,98_AL_.jpg",
+      "synopsis": "Noah has to leave her town, boyfriend and friends behind and move into the mansion of her mother's new rich husband. There she meets Nick, her new stepbrother. They fall madly in love in secret.",
+      "director": "Domingo González",
+      "actors": [
+        "Nicole Wallace",
+        "Gabriel Guevara",
+        "Marta Hazas",
+        "Iván Sánchez"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "John Wick: Chapter 4",
+      "genre": "Action, Crime, Thriller",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/12/johnwickchapter4.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "director": "Chad Stahelski",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "George Georgiou",
+        "Lance Reddick"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Nimona",
+      "genre": "Animation, Action, Adventure",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYWQ2YzJhOGItNTMyOC00YzFmLWExZjEtOGFmMDVkMDdmOGFiXkEyXkFqcGdeQXVyMTUxNTU1NzEz._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "When a knight in a futuristic medieval world is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona -- a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
+      "director": "Nick Bruno",
+      "actors": [
+        "Troy Quane",
+        "Chloë Grace Moretz",
+        "Riz Ahmed",
+        "Eugene Lee Yang",
+        "Frances Conroy"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "genre": "Action, Adventure, Comedy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmFkN2M2NzItOTY5YS00MmE2LTk3ZjctNTk2YzQ5ZmRiYzJjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+      "director": "John Francis Daley",
+      "actors": [
+        "Jonathan Goldstein",
+        "Chris Pine",
+        "Michelle Rodriguez",
+        "Regé-Jean Page",
+        "Justice Smith"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Blue Beetle",
+      "genre": "Action, Adventure, Sci-Fi",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjM5YmY5OGQtNTE3OS00Yzc0LWEzOTEtNTJjY2MxMWZlMjU2XkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "synopsis": "An alien relic chooses Jaime Reyes to be its symbiotic host, bestowing the teenager with a suit of armor that's capable of extraordinary and unpredictable powers, forever changing his destiny as he becomes the superhero Blue Beetle.",
+      "director": "Angel Manuel Soto",
+      "actors": [
+        "Becky G",
+        "Xolo Maridueña",
+        "Bruna Marquezine",
+        "Susan Sarandon"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Bird Box: Barcelona",
+      "genre": "Horror, Mystery, Sci-Fi",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjk5ZTk5NTAtYTQ4MS00NWI2LTg2NzQtZTBhYmEzOWU3MDQ0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "After an entity of mysterious origin annihilates the world's population causing those who observe it to take their lives, Sebastián and his daughter begin their own great adventure of survival in Barcelona.",
+      "director": "David Pastor",
+      "actors": [
+        "Àlex Pastor",
+        "Mario Casas",
+        "Georgina Campbell",
+        "Diego Calva",
+        "Naila Schuberth"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Guy Ritchie's The Covenant",
+      "genre": "Action, Thriller, War",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+      "director": "Guy Ritchie",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Dar Salim",
+        "Sean Sagar",
+        "Jason Wong"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Evil Dead Rise",
+      "genre": "Horror",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+      "director": "Lee Cronin",
+      "actors": [
+        "Mirabai Pease",
+        "Richard Crouchley",
+        "Anna-Maree Thomas",
+        "Lily Sullivan"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "The Super Mario Bros. Movie",
+      "genre": "Animation, Adventure, Comedy",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/11/mv5byjy5mtywmdytndk4os00nme1lwi2zjity2q5zmvmntu4ntayxkeyxkfqcgdeqxvymtkxnjuynq-_v1_fmjpg_ux1000_.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess.",
+      "director": "Aaron Horvath",
+      "actors": [
+        "Michael Jelenic",
+        "Pierre Leduc",
+        "Fabien Polack",
+        "Chris Pratt",
+        "Anya Taylor-Joy"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Haunted Mansion",
+      "genre": "Comedy, Drama, Family",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTlmZmFkYTEtMDM4NS00NTgzLWFhODEtZjMxOTlmN2QxZTdiXkEyXkFqcGdeQXVyMTMzOTQyOTk1._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "A single mom named Gabbie hires a tour guide, a psychic, a priest and a historian to help exorcise her newly bought mansion after discovering it is inhabited by ghosts.",
+      "director": "Justin Simien",
+      "actors": [
+        "Rosario Dawson",
+        "Jamie Lee Curtis",
+        "Winona Ryder",
+        "Jared Leto"
+      ]
+    },
+    {
+      "id": "31",
+      "title": "The Little Mermaid (I)",
+      "genre": "Adventure, Family, Fantasy",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTUxYjczMWUtYzlkZC00NTcwLWE3ODQtN2I2YTIxOTU0ZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs so she can discover the world above water and impress a prince.",
+      "director": "Rob Marshall",
+      "actors": [
+        "Halle Bailey",
+        "Jonah Hauer-King",
+        "Melissa McCarthy",
+        "Javier Bardem"
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Five Nights at Freddy's",
+      "genre": "Horror",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWI3ZmY4NmItMGQ4My00ODJlLWJlNTktYjk2NzRkODU3YTNlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift at Freddy's won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's",
+      "director": "Emma Tammi",
+      "actors": [
+        "Josh Hutcherson",
+        "Matthew Lillard",
+        "Elizabeth Lail",
+        "Mary Stuart Masterson"
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Lust Stories 2",
+      "genre": "Drama, Romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzhmOGQxMjQtYmFkOC00MTc0LTk2N2UtMTc4NzVlNzcyNWNlXkEyXkFqcGdeQXVyMTU2MTIyODU2._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "synopsis": "Four eminent Indian directors explore sex, desire and love through short films in this sequel to 2018's Emmy-nominated \"Lust Stories\".",
+      "director": "R. Balki",
+      "actors": [
+        "Sujoy Ghosh",
+        "Amit Ravindernath Sharma",
+        "Konkona Sen Sharma",
+        "Tamannaah Bhatia",
+        "Vijay Varma"
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Red, White & Royal Blue",
+      "genre": "Comedy, Romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTFhNzc2MGMtZGUwYi00ZWFjLThlOWEtNDdmYTQyZjc3NDQ4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "The son of the American President sparks a feud with Britain's prince.",
+      "director": "Matthew López",
+      "actors": [
+        "Sarah Shahi",
+        "Nicholas Galitzine",
+        "Taylor Zakhar Perez",
+        "Uma Thurman"
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Jawan",
+      "genre": "Action, Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDc3YzVkYWUtMWZjYS00MjMzLWE5ZjYtZmU2ODFlYzkzYWI4XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_UY98_CR5,0,67,98_AL_.jpg",
+      "synopsis": "A high-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in the society.",
+      "director": "Atlee",
+      "actors": [
+        "Shah Rukh Khan",
+        "Nayanthara",
+        "Vijay Sethupathi",
+        "Aamir Naik"
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Scream VI",
+      "genre": "Horror, Mystery, Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODBjM2M4YTQtNmJlMS00MGU2LWI4ZGYtZTA1MzdmZDAyMjFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "In the next installment, the survivors of the Ghostface killings leave Woodsboro behind and start a fresh chapter in New York City.",
+      "director": "Matt Bettinelli-Olpin",
+      "actors": [
+        "Tyler Gillett",
+        "Courteney Cox",
+        "Melissa Barrera",
+        "Jenna Ortega",
+        "Jasmin Savoy Brown"
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Fast X",
+      "genre": "Action, Adventure, Crime",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+      "director": "Louis Leterrier",
+      "actors": [
+        "Vin Diesel",
+        "Michelle Rodriguez",
+        "Jason Statham",
+        "Jordana Brewster"
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Run Rabbit Run",
+      "genre": "Horror, Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGRiYWVhZTAtMDI5YS00OWI0LThjNWItYWU4NmI1YzM1ODkzXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Sarah Snook plays a fertility doctor who believes firmly in life and death, but after noticing the strange behavior of her young daughter, she must challenge her own values and confront a ghost from her past.",
+      "director": "Daina Reid",
+      "actors": [
+        "Sarah Snook",
+        "Lily LaTorre",
+        "Neil Melville",
+        "Katherine Slattery"
+      ]
+    },
+    {
+      "id": "39",
+      "title": "The Tutor",
+      "genre": "Mystery, Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZGRiYWVhZTAtMDI5YS00OWI0LThjNWItYWU4NmI1YzM1ODkzXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Follows a tutor who, after being assigned an unexpected task at a mansion, finds himself struggling with the obsessions of his student, who threatens to expose his darkest secrets.",
+      "director": "Jordan Ross",
+      "actors": [
+        "Garrett Hedlund",
+        "Victoria Justice",
+        "Noah Schnapp",
+        "Jonny Weston"
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Beau Is Afraid",
+      "genre": "Comedy, Drama, Horror",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTNhNWRmMDctYzE4OS00MzczLWJkODgtNzYxZTQxM2Y1YmM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic, Kafkaesque odyssey back home.",
+      "director": "Ari Aster",
+      "actors": [
+        "Joaquin Phoenix",
+        "Patti LuPone",
+        "Amy Ryan",
+        "Nathan Lane"
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Dune: Part Two",
+      "genre": "Action, Adventure, Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODI0YjNhNjUtYjM0My00MTUwLWFlYTMtMWI2NGUzYjNjNGQzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson",
+        "Josh Brolin"
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Nefarious (II)",
+      "genre": "Horror, Thriller",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmY4NTlkNTEtNDBjMS00ZTJiLWFlZDMtNWY0MWFlZmNjMTFlXkEyXkFqcGdeQXVyMzQxODQzMTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own.",
+      "director": "Chuck Konzelman",
+      "actors": [
+        "Cary Solomon",
+        "Sean Patrick Flanery",
+        "Jordan Belfi",
+        "Tom Ohmer",
+        "Glenn Beck"
+      ]
+    },
+    {
+      "id": "43",
+      "title": "Ruby Gillman, Teenage Kraken",
+      "genre": "Animation, Action, Adventure",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGM5NzBmNTItMTk5Ni00NmQzLTg1NmUtMDkyY2E2MDE1ZGZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "A shy adolescent learns that she comes from a fabled royal family of legendary sea krakens and that her destiny lies in the depths of the waters, which is bigger than she could have ever imagined.",
+      "director": "Kirk DeMicco",
+      "actors": [
+        "Faryn Pearl",
+        "Jane Fonda",
+        "Lana Condor",
+        "Toni Collette",
+        "Colman Domingo"
+      ]
+    },
+    {
+      "id": "44",
+      "title": "Past Lives",
+      "genre": "Drama, Romance",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTkzYmMxNTItZDAxNC00NGM0LWIyODMtMWYzMzRkMjIyMTE1XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+      "director": "Celine Song",
+      "actors": [
+        "Greta Lee",
+        "Teo Yoo",
+        "John Magaro",
+        "Moon Seung-ah"
+      ]
+    },
+    {
+      "id": "45",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "genre": "Animation, Action, Adventure",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/05/teenage_mutant_ninja_turtles_mutant_mayhem_xlg.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "The Turtle brothers as they work to earn the love of New York City while facing down an army of mutants.",
+      "director": "Jeff Rowe",
+      "actors": [
+        "Kyler Spears",
+        "Ayo Edebiri",
+        "Rose Byrne",
+        "Natasia Demetriou",
+        "Jackie Chan"
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Air (I)",
+      "genre": "Drama, Sport",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/05/air_ver2_xlg.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "Follows the history of sports marketing executive Sonny Vaccaro, and how he led Nike in its pursuit of the greatest athlete in the history of basketball, Michael Jordan.",
+      "director": "Ben Affleck",
+      "actors": [
+        "Matt Damon",
+        "Jason Bateman",
+        "Ben Affleck",
+        "Chris Messina"
+      ]
+    },
+    {
+      "id": "47",
+      "title": "Infinity Pool",
+      "genre": "Crime, Horror, Mystery",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/12/mv5bymvmnzyxndctnmfmzc00mmjjltg0nzctnjm2ogjhngi4mdayxkeyxkfqcgdeqxvymjkwotaymdu-_v1_fmjpg_ux1000_.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "James and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence and surreal horrors.",
+      "director": "Brandon Cronenberg",
+      "actors": [
+        "Alexander Skarsgård",
+        "Mia Goth",
+        "Cleopatra Coleman",
+        "Dunja Sepcic"
+      ]
+    },
+    {
+      "id": "48",
+      "title": "The Nun II",
+      "genre": "Horror, Mystery, Thriller",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/07/nun_ii_ver2_xlg.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "1956 - France. A priest is murdered. An evil is spreading. The sequel to the worldwide smash hit follows Sister Irene as she once again comes face-to-face with Valak, the demon nun.",
+      "director": "Michael Chaves",
+      "actors": [
+        "Bonnie Aarons",
+        "Taissa Farmiga",
+        "Storm Reid",
+        "Anna Popplewell"
+      ]
+    },
+    {
+      "id": "49",
+      "title": "The Pope's Exorcist",
+      "genre": "Horror, Thriller",
+      "poster": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/03/mv5byja0mgu4mzytytyxmy00mjrhltlmmdytztvhzdc1y2qwnwy2xkeyxkfqcgdeqxvymjy5odi4ndk-_v1_fmjpg_ux1000_.jpg?q=50&fit=crop&h=720&dpr=1.5",
+      "synopsis": "Follow Gabriele Amorth, the Vatican's leading exorcist, as he investigates the possession of a child and uncovers a conspiracy the Vatican has tried to keep secret.",
+      "director": "Julius Avery",
+      "actors": [
+        "Russell Crowe",
+        "Daniel Zovatto",
+        "Alex Essoe",
+        "Franco Nero"
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Knights of the Zodiac",
+      "genre": "Action, Adventure, Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjNlYzNhMTgtYTFlYi00ZDg4LWIwMGItZWU2OTY1NTk4MDdlXkEyXkFqcGdeQXVyMTYyMTYyOTcw._V1_UX67_CR0,0,67,98_AL_.jpg",
+      "synopsis": "When a goddess of war reincarnates in the body of a young girl, street orphan Seiya discovers that he is destined to protect her and save the world. But only if he can face his own past and become a Knight of the Zodiac.",
+      "director": "Tomasz Baginski",
+      "actors": [
+        "Mackenyu",
+        "Famke Janssen",
+        "Madison Iseman",
+        "Diego Tinoco"
+      ]
+    }
+  ],
+
+  "titles":[
+    "Mission: Impossible - Dead Reckoning Part One",
+    "Sound of Freedom",
+    "Oppenheimer",
+    "Barbie (I)",
+    "The Out-Laws",
+    "Indiana Jones and the Dial of Destiny",
+    "Wonka",
+    "Guardians of the Galaxy Vol. 3",
+    "Napoleon",
+    "Asteroid City",
+    "Insidious: The Red Door",
+    "Transformers: Rise of the Beasts",
+    "No Hard Feelings",
+    "Spider-Man: Across the Spider-Verse",
+    "Killers of the Flower Moon",
+    "Joy Ride",
+    "65",
+    "The Flash",
+    "Elemental",
+    "Extraction 2",
+    "Culpa mía",
+    "John Wick: Chapter 4",
+    "Nimona",
+    "Dungeons & Dragons: Honor Among Thieves",
+    "Blue Beetle",
+    "Bird Box: Barcelona",
+    "Guy Ritchie's The Covenant",
+    "Evil Dead Rise",
+    "The Super Mario Bros. Movie",
+    "Haunted Mansion",
+    "The Little Mermaid (I)",
+    "Five Nights at Freddy's",
+    "Lust Stories 2",
+    "Red, White & Royal Blue",
+    "Jawan",
+    "Scream VI",
+    "Fast X",
+    "Run Rabbit Run",
+    "The Tutor",
+    "Beau Is Afraid",
+    "Dune: Part Two",
+    "Nefarious (II)",
+    "Ruby Gillman, Teenage Kraken",
+    "Past Lives",
+    "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "Air (I)",
+    "Infinity Pool",
+    "The Nun II",
+    "The Pope's Exorcist",
+    "Knights of the Zodiac"
+  ]
+}
